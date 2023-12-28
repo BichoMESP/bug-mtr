@@ -1,4 +1,4 @@
-# bug-mtr
-# Datapack para solucionar bug del mod Minecraft-Transit-Railway con otros mod´s como Ad Astra, Beyond Earth o Space Dimension.
-# Es un ejemplo, no estan todas las dimensiones.
+# Fix MTR - Ad Astra
+# Datapack para solucionar bug del mod Minecraft-Transit-Railway con Ad Astra.
+# No estan todas las dimensiones, faltan todas las orbitas menos la orbita de la tierra.
 # Creado por Kenonis y Bicho 
